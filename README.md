@@ -1,21 +1,21 @@
-# DDOS.py
+![img_blog-ddos_attacks_how_to_prepare_data_foundry](https://user-images.githubusercontent.com/48172784/125727048-a02373fd-50e9-4e42-8878-372fad9f1419.png)
 
-1. git clone https://github.com/hidayat-code/ddos.py
-2. cd ddos.py
-3. python ddos.py
+# Whats a DDOS
+DDoS is an abbreviation of Distributed Denial of Service or in Indonesian it can be interpreted as a Distributed Denial of Service. DDoS is a type of attack that is carried out by flooding internet network traffic on servers, systems, or networks. Generally, this attack is carried out using several attacker's host computer until the target computer cannot be accessed.
+DDoS is a very popular attack used by hackers. In addition to having many types, DDoS has a very simple concept, namely making server traffic run with a heavy load until it can no longer accommodate connections from other users (overload). One way is to send requests to the server continuously with large data transactions.
 
-Kunjungi juga blog admin lainnya 
-1. https://www.hidayatcode.com/
-2. https://www.niasxploit.my.id/
+# How to Use the ddos.py
+```console
+hidayat@code:~$ sudo apt-get update 
+hidayat@code:~$ git clone https://github.com/hidayat-code/ddos.py/
+hidayat@code:~$ cd codespam.py
+hidayat@code:~$ python DDOS.py
+```
+# intrukdation
+Enter the IP or website link that will be targeted. After that, enter the port that is used, the port that is used is 8080
 
-Subscribe channel admin 
+# Website
+www.hidayatcode
 
-https://www.youtube.com/channel/UCr61VfSuS3oTY9HWUFoceUQ Nias Xploit
-
-
-
-
-https://www.youtube.com/channel/UCskI7xL3sdS1t0kcb22NQXQ Hidayat Code
-
-
-Klik https://t.me/hidayatcode untuk bergabung di channel telegram admin
+# Youtube 
+HIDAYAT CODE
